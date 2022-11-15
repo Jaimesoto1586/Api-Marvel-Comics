@@ -1,0 +1,8 @@
+body {
+    background: red;
+}
+
+img.img-thumbnail {
+    width: 80%;
+    height: 80%;
+}
